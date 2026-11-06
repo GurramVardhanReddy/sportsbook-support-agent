@@ -1,0 +1,3515 @@
+{
+ "events": {
+  "E01": {
+   "event_id": "E01",
+   "home": "Ashford Rovers",
+   "away": "Briar Vale",
+   "kickoff": "2026-10-03T15:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 12,
+     "team": "home",
+     "player": "Kofi Carver",
+     "own_goal": false
+    },
+    {
+     "minute": 55,
+     "team": "away",
+     "player": "Owen Byrne",
+     "own_goal": false
+    },
+    {
+     "minute": 81,
+     "team": "home",
+     "player": "Uli Jarrow",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Sami Nolan",
+     "Hugo Rennick",
+     "Sami Tobin",
+     "Pavel Garde",
+     "Liam Sorley",
+     "Dara Byrne",
+     "Ivan Rennick",
+     "Hugo Fenwick",
+     "Uli Jarrow",
+     "Kofi Carver",
+     "Jonah Rennick"
+    ],
+    "away": [
+     "Wes Byrne",
+     "Femi Rennick",
+     "Nico Quill",
+     "Pavel Rennick",
+     "Theo Carver",
+     "Eoin Byrne",
+     "Nico Marsh",
+     "Dara Quill",
+     "Gus Nolan",
+     "Hugo Garde",
+     "Owen Byrne"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Eoin Garde",
+     "Milo Garde",
+     "Sami Byrne"
+    ],
+    "away": [
+     "Ivan Byrne",
+     "Pavel Quill",
+     "Uli Pryce"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E02": {
+   "event_id": "E02",
+   "home": "Cobalt Town",
+   "away": "Dunmore United",
+   "kickoff": "2026-10-03T17:30",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Gus Quill",
+     "Jonah Ives",
+     "Milo Lowry",
+     "Adam Lowry",
+     "Liam Fenwick",
+     "Theo Lowry",
+     "Pavel Marsh",
+     "Nico Garde",
+     "Sami Rennick",
+     "Owen Keane",
+     "Hugo Byrne"
+    ],
+    "away": [
+     "Pavel Pryce",
+     "Hugo Nolan",
+     "Pavel Byrne",
+     "Dara Doyle",
+     "Ben Nolan",
+     "Milo Pryce",
+     "Liam Pryce",
+     "Adam Lowry",
+     "Dara Lowry",
+     "Pavel Garde",
+     "Sami Fenwick"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Femi Pryce",
+     "Uli Byrne",
+     "Nico Holt"
+    ],
+    "away": [
+     "Femi Orme",
+     "Uli Byrne",
+     "Rory Ekwe"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E03": {
+   "event_id": "E03",
+   "home": "Elmbridge City",
+   "away": "Fallowfield",
+   "kickoff": "2026-10-04T14:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 8,
+     "team": "home",
+     "player": "Theo Marsh",
+     "own_goal": true
+    },
+    {
+     "minute": 70,
+     "team": "away",
+     "player": "Owen Quill",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Nico Jarrow",
+     "Dara Abbot",
+     "Adam Byrne",
+     "Kofi Keane",
+     "Ivan Marsh",
+     "Ivan Ekwe",
+     "Nico Byrne",
+     "Wes Keane",
+     "Wes Orme",
+     "Hugo Carver",
+     "Wes Nolan"
+    ],
+    "away": [
+     "Dara Garde",
+     "Ivan Carver",
+     "Owen Keane",
+     "Theo Marsh",
+     "Liam Byrne",
+     "Hugo Holt",
+     "Wes Nolan",
+     "Theo Tobin",
+     "Femi Ekwe",
+     "Owen Quill",
+     "Jonah Fenwick"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Liam Byrne",
+     "Wes Sorley",
+     "Liam Rennick"
+    ],
+    "away": [
+     "Vik Doyle",
+     "Cian Rennick",
+     "Jonah Ives"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E04": {
+   "event_id": "E04",
+   "home": "Glenshaw Athletic",
+   "away": "Harrow Bay",
+   "kickoff": "2026-10-04T16:30",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 5,
+     "team": "home",
+     "player": "Theo Nolan",
+     "own_goal": false
+    },
+    {
+     "minute": 22,
+     "team": "away",
+     "player": "Liam Garde",
+     "own_goal": false
+    },
+    {
+     "minute": 40,
+     "team": "home",
+     "player": "Vik Nolan",
+     "own_goal": true
+    },
+    {
+     "minute": 63,
+     "team": "away",
+     "player": "Eoin Keane",
+     "own_goal": false
+    },
+    {
+     "minute": 88,
+     "team": "home",
+     "player": "Dara Carver",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Cian Sorley",
+     "Cian Marsh",
+     "Milo Lowry",
+     "Sami Pryce",
+     "Dara Pryce",
+     "Gus Tobin",
+     "Eoin Rennick",
+     "Gus Marsh",
+     "Milo Fenwick",
+     "Dara Carver",
+     "Theo Nolan"
+    ],
+    "away": [
+     "Pavel Rennick",
+     "Rory Ekwe",
+     "Ben Tobin",
+     "Gus Lowry",
+     "Vik Nolan",
+     "Wes Keane",
+     "Wes Holt",
+     "Pavel Nolan",
+     "Eoin Keane",
+     "Liam Garde",
+     "Sami Lowry"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Jonah Rennick",
+     "Dara Keane",
+     "Hugo Abbot"
+    ],
+    "away": [
+     "Adam Marsh",
+     "Pavel Holt",
+     "Adam Carver"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E05": {
+   "event_id": "E05",
+   "home": "Ironmoor",
+   "away": "Juniper Wanderers",
+   "kickoff": "2026-10-07T19:45",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": true,
+   "qualified": "home",
+   "goals": [
+    {
+     "minute": 30,
+     "team": "home",
+     "player": "Nico Rennick",
+     "own_goal": false
+    },
+    {
+     "minute": 77,
+     "team": "away",
+     "player": "Dara Lowry",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Pavel Ives",
+     "Femi Rennick",
+     "Kofi Ives",
+     "Dara Carver",
+     "Dara Pryce",
+     "Wes Keane",
+     "Ben Ekwe",
+     "Liam Orme",
+     "Theo Marsh",
+     "Nico Rennick",
+     "Liam Ekwe"
+    ],
+    "away": [
+     "Rory Sorley",
+     "Cian Nolan",
+     "Theo Fenwick",
+     "Sami Ives",
+     "Gus Orme",
+     "Eoin Ekwe",
+     "Gus Ives",
+     "Gus Pryce",
+     "Sami Keane",
+     "Gus Lowry",
+     "Dara Lowry"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Ben Nolan",
+     "Dara Marsh",
+     "Adam Doyle"
+    ],
+    "away": [
+     "Jonah Ekwe",
+     "Dara Marsh",
+     "Hugo Jarrow"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E06": {
+   "event_id": "E06",
+   "home": "Kestrel Park",
+   "away": "Larkspur FC",
+   "kickoff": "2026-10-07T20:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": true,
+   "qualified": "away",
+   "goals": [],
+   "starters": {
+    "home": [
+     "Dara Orme",
+     "Jonah Quill",
+     "Kofi Marsh",
+     "Milo Fenwick",
+     "Liam Quill",
+     "Eoin Marsh",
+     "Cian Sorley",
+     "Hugo Holt",
+     "Nico Ekwe",
+     "Sami Quill",
+     "Nico Carver"
+    ],
+    "away": [
+     "Wes Garde",
+     "Cian Jarrow",
+     "Jonah Abbot",
+     "Nico Holt",
+     "Adam Garde",
+     "Vik Carver",
+     "Femi Byrne",
+     "Milo Tobin",
+     "Sami Jarrow",
+     "Uli Lowry",
+     "Theo Keane"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Theo Holt",
+     "Nico Rennick",
+     "Ivan Doyle"
+    ],
+    "away": [
+     "Eoin Ekwe",
+     "Dara Fenwick",
+     "Liam Sorley"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E07": {
+   "event_id": "E07",
+   "home": "Marrow Heath",
+   "away": "Northwick",
+   "kickoff": "2026-10-11T15:00",
+   "status": "abandoned",
+   "abandoned_minute": 60,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 18,
+     "team": "home",
+     "player": "Rory Tobin",
+     "own_goal": false
+    },
+    {
+     "minute": 44,
+     "team": "home",
+     "player": "Dara Quill",
+     "own_goal": false
+    },
+    {
+     "minute": 75,
+     "team": "away",
+     "player": "Rory Carver",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Jonah Fenwick",
+     "Uli Jarrow",
+     "Kofi Abbot",
+     "Ivan Jarrow",
+     "Gus Byrne",
+     "Owen Holt",
+     "Eoin Abbot",
+     "Gus Tobin",
+     "Liam Tobin",
+     "Rory Tobin",
+     "Dara Quill"
+    ],
+    "away": [
+     "Vik Pryce",
+     "Gus Fenwick",
+     "Vik Holt",
+     "Milo Carver",
+     "Rory Marsh",
+     "Ivan Holt",
+     "Sami Tobin",
+     "Eoin Garde",
+     "Hugo Ekwe",
+     "Rory Carver",
+     "Sami Orme"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Hugo Carver",
+     "Cian Orme",
+     "Femi Garde"
+    ],
+    "away": [
+     "Ivan Carver",
+     "Milo Ives",
+     "Adam Sorley"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E08": {
+   "event_id": "E08",
+   "home": "Oakhaven",
+   "away": "Pellan Albion",
+   "kickoff": "2026-10-11T17:30",
+   "status": "abandoned",
+   "abandoned_minute": 30,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Eoin Fenwick",
+     "Sami Garde",
+     "Vik Sorley",
+     "Pavel Sorley",
+     "Ben Orme",
+     "Nico Abbot",
+     "Pavel Holt",
+     "Liam Fenwick",
+     "Ben Carver",
+     "Jonah Holt",
+     "Eoin Doyle"
+    ],
+    "away": [
+     "Gus Ives",
+     "Adam Carver",
+     "Jonah Fenwick",
+     "Liam Fenwick",
+     "Theo Keane",
+     "Milo Fenwick",
+     "Liam Abbot",
+     "Eoin Doyle",
+     "Vik Tobin",
+     "Ben Keane",
+     "Hugo Carver"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Eoin Keane",
+     "Owen Keane",
+     "Jonah Orme"
+    ],
+    "away": [
+     "Dara Doyle",
+     "Theo Ekwe",
+     "Nico Rennick"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E09": {
+   "event_id": "E09",
+   "home": "Quarry Lane",
+   "away": "Redwater",
+   "kickoff": "2026-10-12T14:00",
+   "status": "postponed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Milo Jarrow",
+     "Sami Abbot",
+     "Cian Holt",
+     "Theo Jarrow",
+     "Wes Doyle",
+     "Jonah Keane",
+     "Pavel Sorley",
+     "Wes Ekwe",
+     "Nico Marsh",
+     "Rory Quill",
+     "Femi Orme"
+    ],
+    "away": [
+     "Nico Rennick",
+     "Jonah Pryce",
+     "Theo Doyle",
+     "Theo Pryce",
+     "Eoin Sorley",
+     "Eoin Garde",
+     "Owen Holt",
+     "Liam Garde",
+     "Nico Ekwe",
+     "Ben Nolan",
+     "Dara Orme"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Dara Byrne",
+     "Wes Orme",
+     "Pavel Ekwe"
+    ],
+    "away": [
+     "Femi Quill",
+     "Gus Orme",
+     "Dara Keane"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E10": {
+   "event_id": "E10",
+   "home": "Sallow Green",
+   "away": "Thornbury Town",
+   "kickoff": "2026-10-12T16:30",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 35,
+     "team": "home",
+     "player": "Liam Ives",
+     "own_goal": false
+    },
+    {
+     "minute": 68,
+     "team": "away",
+     "player": "Ben Ekwe",
+     "own_goal": false
+    },
+    {
+     "minute": 74,
+     "team": "away",
+     "player": "Cian Byrne",
+     "own_goal": false
+    },
+    {
+     "minute": 90,
+     "team": "home",
+     "player": "Hugo Abbot",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Owen Nolan",
+     "Femi Pryce",
+     "Cian Rennick",
+     "Kofi Carver",
+     "Adam Quill",
+     "Eoin Pryce",
+     "Owen Ekwe",
+     "Nico Jarrow",
+     "Kofi Quill",
+     "Liam Ives",
+     "Jonah Orme"
+    ],
+    "away": [
+     "Sami Keane",
+     "Dara Ives",
+     "Uli Lowry",
+     "Hugo Holt",
+     "Owen Doyle",
+     "Gus Pryce",
+     "Hugo Carver",
+     "Cian Rennick",
+     "Gus Byrne",
+     "Vik Carver",
+     "Cian Byrne"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Hugo Lowry",
+     "Hugo Abbot",
+     "Ivan Pryce"
+    ],
+    "away": [
+     "Ben Ekwe",
+     "Femi Holt",
+     "Wes Nolan"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E11": {
+   "event_id": "E11",
+   "home": "Briar Vale",
+   "away": "Glenshaw Athletic",
+   "kickoff": "2026-10-18T15:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 52,
+     "team": "home",
+     "player": "Owen Byrne",
+     "own_goal": false
+    },
+    {
+     "minute": 11,
+     "team": "home",
+     "player": "Owen Byrne",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Wes Byrne",
+     "Femi Rennick",
+     "Nico Quill",
+     "Pavel Rennick",
+     "Theo Carver",
+     "Eoin Byrne",
+     "Nico Marsh",
+     "Dara Quill",
+     "Gus Nolan",
+     "Hugo Garde",
+     "Owen Byrne"
+    ],
+    "away": [
+     "Cian Sorley",
+     "Cian Marsh",
+     "Milo Lowry",
+     "Sami Pryce",
+     "Dara Pryce",
+     "Gus Tobin",
+     "Eoin Rennick",
+     "Gus Marsh",
+     "Milo Fenwick",
+     "Dara Carver",
+     "Theo Nolan"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Ivan Byrne",
+     "Pavel Quill",
+     "Uli Pryce"
+    ],
+    "away": [
+     "Jonah Rennick",
+     "Dara Keane",
+     "Hugo Abbot"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E12": {
+   "event_id": "E12",
+   "home": "Dunmore United",
+   "away": "Ironmoor",
+   "kickoff": "2026-10-18T17:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Pavel Pryce",
+     "Hugo Nolan",
+     "Pavel Byrne",
+     "Dara Doyle",
+     "Ben Nolan",
+     "Milo Pryce",
+     "Liam Pryce",
+     "Adam Lowry",
+     "Dara Lowry",
+     "Pavel Garde",
+     "Sami Fenwick"
+    ],
+    "away": [
+     "Pavel Ives",
+     "Femi Rennick",
+     "Kofi Ives",
+     "Dara Carver",
+     "Dara Pryce",
+     "Wes Keane",
+     "Ben Ekwe",
+     "Liam Orme",
+     "Theo Marsh",
+     "Nico Rennick",
+     "Liam Ekwe"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Femi Orme",
+     "Uli Byrne",
+     "Rory Ekwe"
+    ],
+    "away": [
+     "Ben Nolan",
+     "Dara Marsh",
+     "Adam Doyle"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E13": {
+   "event_id": "E13",
+   "home": "Fallowfield",
+   "away": "Kestrel Park",
+   "kickoff": "2026-10-18T19:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 66,
+     "team": "home",
+     "player": "Femi Ekwe",
+     "own_goal": false
+    },
+    {
+     "minute": 13,
+     "team": "home",
+     "player": "Owen Quill",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Dara Garde",
+     "Ivan Carver",
+     "Owen Keane",
+     "Theo Marsh",
+     "Liam Byrne",
+     "Hugo Holt",
+     "Wes Nolan",
+     "Theo Tobin",
+     "Femi Ekwe",
+     "Owen Quill",
+     "Jonah Fenwick"
+    ],
+    "away": [
+     "Dara Orme",
+     "Jonah Quill",
+     "Kofi Marsh",
+     "Milo Fenwick",
+     "Liam Quill",
+     "Eoin Marsh",
+     "Cian Sorley",
+     "Hugo Holt",
+     "Nico Ekwe",
+     "Sami Quill",
+     "Nico Carver"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Vik Doyle",
+     "Cian Rennick",
+     "Jonah Ives"
+    ],
+    "away": [
+     "Theo Holt",
+     "Nico Rennick",
+     "Ivan Doyle"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E14": {
+   "event_id": "E14",
+   "home": "Harrow Bay",
+   "away": "Marrow Heath",
+   "kickoff": "2026-10-19T15:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 32,
+     "team": "home",
+     "player": "Eoin Keane",
+     "own_goal": false
+    },
+    {
+     "minute": 9,
+     "team": "away",
+     "player": "Dara Quill",
+     "own_goal": false
+    },
+    {
+     "minute": 30,
+     "team": "home",
+     "player": "Sami Lowry",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Pavel Rennick",
+     "Rory Ekwe",
+     "Ben Tobin",
+     "Gus Lowry",
+     "Vik Nolan",
+     "Wes Keane",
+     "Wes Holt",
+     "Pavel Nolan",
+     "Eoin Keane",
+     "Liam Garde",
+     "Sami Lowry"
+    ],
+    "away": [
+     "Jonah Fenwick",
+     "Uli Jarrow",
+     "Kofi Abbot",
+     "Ivan Jarrow",
+     "Gus Byrne",
+     "Owen Holt",
+     "Eoin Abbot",
+     "Gus Tobin",
+     "Liam Tobin",
+     "Rory Tobin",
+     "Dara Quill"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Adam Marsh",
+     "Pavel Holt",
+     "Adam Carver"
+    ],
+    "away": [
+     "Hugo Carver",
+     "Cian Orme",
+     "Femi Garde"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E15": {
+   "event_id": "E15",
+   "home": "Juniper Wanderers",
+   "away": "Oakhaven",
+   "kickoff": "2026-10-19T17:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 75,
+     "team": "home",
+     "player": "Dara Lowry",
+     "own_goal": false
+    },
+    {
+     "minute": 8,
+     "team": "away",
+     "player": "Ben Carver",
+     "own_goal": false
+    },
+    {
+     "minute": 73,
+     "team": "home",
+     "player": "Sami Keane",
+     "own_goal": false
+    },
+    {
+     "minute": 55,
+     "team": "away",
+     "player": "Ben Carver",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Rory Sorley",
+     "Cian Nolan",
+     "Theo Fenwick",
+     "Sami Ives",
+     "Gus Orme",
+     "Eoin Ekwe",
+     "Gus Ives",
+     "Gus Pryce",
+     "Sami Keane",
+     "Gus Lowry",
+     "Dara Lowry"
+    ],
+    "away": [
+     "Eoin Fenwick",
+     "Sami Garde",
+     "Vik Sorley",
+     "Pavel Sorley",
+     "Ben Orme",
+     "Nico Abbot",
+     "Pavel Holt",
+     "Liam Fenwick",
+     "Ben Carver",
+     "Jonah Holt",
+     "Eoin Doyle"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Jonah Ekwe",
+     "Dara Marsh",
+     "Hugo Jarrow"
+    ],
+    "away": [
+     "Eoin Keane",
+     "Owen Keane",
+     "Jonah Orme"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E16": {
+   "event_id": "E16",
+   "home": "Larkspur FC",
+   "away": "Quarry Lane",
+   "kickoff": "2026-10-19T19:00",
+   "status": "completed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [
+    {
+     "minute": 75,
+     "team": "home",
+     "player": "Uli Lowry",
+     "own_goal": false
+    },
+    {
+     "minute": 15,
+     "team": "home",
+     "player": "Theo Keane",
+     "own_goal": false
+    },
+    {
+     "minute": 49,
+     "team": "home",
+     "player": "Sami Jarrow",
+     "own_goal": false
+    },
+    {
+     "minute": 74,
+     "team": "home",
+     "player": "Sami Jarrow",
+     "own_goal": false
+    }
+   ],
+   "starters": {
+    "home": [
+     "Wes Garde",
+     "Cian Jarrow",
+     "Jonah Abbot",
+     "Nico Holt",
+     "Adam Garde",
+     "Vik Carver",
+     "Femi Byrne",
+     "Milo Tobin",
+     "Sami Jarrow",
+     "Uli Lowry",
+     "Theo Keane"
+    ],
+    "away": [
+     "Milo Jarrow",
+     "Sami Abbot",
+     "Cian Holt",
+     "Theo Jarrow",
+     "Wes Doyle",
+     "Jonah Keane",
+     "Pavel Sorley",
+     "Wes Ekwe",
+     "Nico Marsh",
+     "Rory Quill",
+     "Femi Orme"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Eoin Ekwe",
+     "Dara Fenwick",
+     "Liam Sorley"
+    ],
+    "away": [
+     "Dara Byrne",
+     "Wes Orme",
+     "Pavel Ekwe"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  },
+  "E17": {
+   "event_id": "E17",
+   "home": "Cobalt Town",
+   "away": "Northwick",
+   "kickoff": "2026-11-06T19:00",
+   "status": "live",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Gus Quill",
+     "Jonah Ives",
+     "Milo Lowry",
+     "Adam Lowry",
+     "Liam Fenwick",
+     "Theo Lowry",
+     "Pavel Marsh",
+     "Nico Garde",
+     "Sami Rennick",
+     "Owen Keane",
+     "Hugo Byrne"
+    ],
+    "away": [
+     "Vik Pryce",
+     "Gus Fenwick",
+     "Vik Holt",
+     "Milo Carver",
+     "Rory Marsh",
+     "Ivan Holt",
+     "Sami Tobin",
+     "Eoin Garde",
+     "Hugo Ekwe",
+     "Rory Carver",
+     "Sami Orme"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Femi Pryce",
+     "Uli Byrne",
+     "Nico Holt"
+    ],
+    "away": [
+     "Ivan Carver",
+     "Milo Ives",
+     "Adam Sorley"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 2.2,
+    "match_result:draw": 3.7,
+    "match_result:away": 3.39,
+    "total_goals:2.5:over": 1.95,
+    "total_goals:2.5:under": 1.91,
+    "btts:yes": 1.91,
+    "btts:no": 1.99,
+    "anytime_scorer:Sami Rennick": 4.34,
+    "anytime_scorer:Owen Keane": 3.16,
+    "anytime_scorer:Hugo Byrne": 2.92,
+    "anytime_scorer:Hugo Ekwe": 2.78,
+    "anytime_scorer:Rory Carver": 4.04,
+    "anytime_scorer:Sami Orme": 2.57
+   },
+   "suspended": []
+  },
+  "E18": {
+   "event_id": "E18",
+   "home": "Fallowfield",
+   "away": "Quarry Lane",
+   "kickoff": "2026-11-06T19:00",
+   "status": "live",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Dara Garde",
+     "Ivan Carver",
+     "Owen Keane",
+     "Theo Marsh",
+     "Liam Byrne",
+     "Hugo Holt",
+     "Wes Nolan",
+     "Theo Tobin",
+     "Femi Ekwe",
+     "Owen Quill",
+     "Jonah Fenwick"
+    ],
+    "away": [
+     "Milo Jarrow",
+     "Sami Abbot",
+     "Cian Holt",
+     "Theo Jarrow",
+     "Wes Doyle",
+     "Jonah Keane",
+     "Pavel Sorley",
+     "Wes Ekwe",
+     "Nico Marsh",
+     "Rory Quill",
+     "Femi Orme"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Vik Doyle",
+     "Cian Rennick",
+     "Jonah Ives"
+    ],
+    "away": [
+     "Dara Byrne",
+     "Wes Orme",
+     "Pavel Ekwe"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 2.67,
+    "match_result:draw": 3.7,
+    "match_result:away": 2.67,
+    "total_goals:2.5:over": 1.95,
+    "total_goals:2.5:under": 1.84,
+    "btts:yes": 1.78,
+    "btts:no": 2.04,
+    "anytime_scorer:Femi Ekwe": 2.55,
+    "anytime_scorer:Owen Quill": 3.48,
+    "anytime_scorer:Jonah Fenwick": 2.75,
+    "anytime_scorer:Nico Marsh": 3.12,
+    "anytime_scorer:Rory Quill": 4.36,
+    "anytime_scorer:Femi Orme": 3.29,
+    "bet_builder:B5069": 3.12
+   },
+   "suspended": []
+  },
+  "E19": {
+   "event_id": "E19",
+   "home": "Ironmoor",
+   "away": "Thornbury Town",
+   "kickoff": "2026-11-06T19:00",
+   "status": "live",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Pavel Ives",
+     "Femi Rennick",
+     "Kofi Ives",
+     "Dara Carver",
+     "Dara Pryce",
+     "Wes Keane",
+     "Ben Ekwe",
+     "Liam Orme",
+     "Theo Marsh",
+     "Nico Rennick",
+     "Liam Ekwe"
+    ],
+    "away": [
+     "Sami Keane",
+     "Dara Ives",
+     "Uli Lowry",
+     "Hugo Holt",
+     "Owen Doyle",
+     "Gus Pryce",
+     "Hugo Carver",
+     "Cian Rennick",
+     "Gus Byrne",
+     "Vik Carver",
+     "Cian Byrne"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Ben Nolan",
+     "Dara Marsh",
+     "Adam Doyle"
+    ],
+    "away": [
+     "Ben Ekwe",
+     "Femi Holt",
+     "Wes Nolan"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 1.85,
+    "match_result:draw": 3.7,
+    "match_result:away": 4.77,
+    "total_goals:2.5:over": 1.74,
+    "total_goals:2.5:under": 1.92,
+    "btts:yes": 1.92,
+    "btts:no": 2.13,
+    "anytime_scorer:Theo Marsh": 3.11,
+    "anytime_scorer:Nico Rennick": 3.14,
+    "anytime_scorer:Liam Ekwe": 3.44,
+    "anytime_scorer:Gus Byrne": 4.07,
+    "anytime_scorer:Vik Carver": 2.54,
+    "anytime_scorer:Cian Byrne": 2.6
+   },
+   "suspended": [
+    "match_result:home",
+    "match_result:draw",
+    "match_result:away"
+   ]
+  },
+  "E20": {
+   "event_id": "E20",
+   "home": "Larkspur FC",
+   "away": "Willowmere",
+   "kickoff": "2026-11-06T19:00",
+   "status": "live",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Wes Garde",
+     "Cian Jarrow",
+     "Jonah Abbot",
+     "Nico Holt",
+     "Adam Garde",
+     "Vik Carver",
+     "Femi Byrne",
+     "Milo Tobin",
+     "Sami Jarrow",
+     "Uli Lowry",
+     "Theo Keane"
+    ],
+    "away": [
+     "Gus Abbot",
+     "Cian Byrne",
+     "Eoin Rennick",
+     "Kofi Pryce",
+     "Liam Byrne",
+     "Pavel Sorley",
+     "Eoin Fenwick",
+     "Ivan Fenwick",
+     "Pavel Marsh",
+     "Rory Abbot",
+     "Ivan Quill"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Eoin Ekwe",
+     "Dara Fenwick",
+     "Liam Sorley"
+    ],
+    "away": [
+     "Owen Rennick",
+     "Uli Marsh",
+     "Ben Marsh"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 2.72,
+    "match_result:draw": 3.7,
+    "match_result:away": 2.61,
+    "total_goals:2.5:over": 2.05,
+    "total_goals:2.5:under": 1.73,
+    "btts:yes": 1.89,
+    "btts:no": 1.92,
+    "anytime_scorer:Sami Jarrow": 3.61,
+    "anytime_scorer:Uli Lowry": 3.83,
+    "anytime_scorer:Theo Keane": 3.34,
+    "anytime_scorer:Pavel Marsh": 3.9,
+    "anytime_scorer:Rory Abbot": 4.26,
+    "anytime_scorer:Ivan Quill": 3.13
+   },
+   "suspended": []
+  },
+  "E21": {
+   "event_id": "E21",
+   "home": "Dunmore United",
+   "away": "Quarry Lane",
+   "kickoff": "2026-11-8T15:00",
+   "status": "scheduled",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Pavel Pryce",
+     "Hugo Nolan",
+     "Pavel Byrne",
+     "Dara Doyle",
+     "Ben Nolan",
+     "Milo Pryce",
+     "Liam Pryce",
+     "Adam Lowry",
+     "Dara Lowry",
+     "Pavel Garde",
+     "Sami Fenwick"
+    ],
+    "away": [
+     "Milo Jarrow",
+     "Sami Abbot",
+     "Cian Holt",
+     "Theo Jarrow",
+     "Wes Doyle",
+     "Jonah Keane",
+     "Pavel Sorley",
+     "Wes Ekwe",
+     "Nico Marsh",
+     "Rory Quill",
+     "Femi Orme"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Femi Orme",
+     "Uli Byrne",
+     "Rory Ekwe"
+    ],
+    "away": [
+     "Dara Byrne",
+     "Wes Orme",
+     "Pavel Ekwe"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 1.87,
+    "match_result:draw": 3.7,
+    "match_result:away": 4.65,
+    "total_goals:2.5:over": 1.88,
+    "total_goals:2.5:under": 1.94,
+    "btts:yes": 1.8,
+    "btts:no": 1.89,
+    "anytime_scorer:Dara Lowry": 3.0,
+    "anytime_scorer:Pavel Garde": 3.95,
+    "anytime_scorer:Sami Fenwick": 3.24,
+    "anytime_scorer:Nico Marsh": 4.33,
+    "anytime_scorer:Rory Quill": 3.44,
+    "anytime_scorer:Femi Orme": 2.75
+   },
+   "suspended": []
+  },
+  "E22": {
+   "event_id": "E22",
+   "home": "Ironmoor",
+   "away": "Valecrest",
+   "kickoff": "2026-11-8T17:00",
+   "status": "scheduled",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Pavel Ives",
+     "Femi Rennick",
+     "Kofi Ives",
+     "Dara Carver",
+     "Dara Pryce",
+     "Wes Keane",
+     "Ben Ekwe",
+     "Liam Orme",
+     "Theo Marsh",
+     "Nico Rennick",
+     "Liam Ekwe"
+    ],
+    "away": [
+     "Femi Holt",
+     "Pavel Holt",
+     "Eoin Holt",
+     "Pavel Marsh",
+     "Jonah Tobin",
+     "Nico Nolan",
+     "Gus Keane",
+     "Ben Jarrow",
+     "Gus Doyle",
+     "Milo Abbot",
+     "Uli Quill"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Ben Nolan",
+     "Dara Marsh",
+     "Adam Doyle"
+    ],
+    "away": [
+     "Ivan Ekwe",
+     "Kofi Rennick",
+     "Dara Keane"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 2.5,
+    "match_result:draw": 3.7,
+    "match_result:away": 2.86,
+    "total_goals:2.5:over": 1.84,
+    "total_goals:2.5:under": 1.75,
+    "btts:yes": 1.77,
+    "btts:no": 2.02,
+    "anytime_scorer:Theo Marsh": 3.88,
+    "anytime_scorer:Nico Rennick": 4.47,
+    "anytime_scorer:Liam Ekwe": 3.83,
+    "anytime_scorer:Gus Doyle": 3.2,
+    "anytime_scorer:Milo Abbot": 2.88,
+    "anytime_scorer:Uli Quill": 2.57,
+    "bet_builder:B5068": 2.49
+   },
+   "suspended": []
+  },
+  "E23": {
+   "event_id": "E23",
+   "home": "Northwick",
+   "away": "Cobalt Town",
+   "kickoff": "2026-11-9T15:00",
+   "status": "scheduled",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Vik Pryce",
+     "Gus Fenwick",
+     "Vik Holt",
+     "Milo Carver",
+     "Rory Marsh",
+     "Ivan Holt",
+     "Sami Tobin",
+     "Eoin Garde",
+     "Hugo Ekwe",
+     "Rory Carver",
+     "Sami Orme"
+    ],
+    "away": [
+     "Gus Quill",
+     "Jonah Ives",
+     "Milo Lowry",
+     "Adam Lowry",
+     "Liam Fenwick",
+     "Theo Lowry",
+     "Pavel Marsh",
+     "Nico Garde",
+     "Sami Rennick",
+     "Owen Keane",
+     "Hugo Byrne"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Ivan Carver",
+     "Milo Ives",
+     "Adam Sorley"
+    ],
+    "away": [
+     "Femi Pryce",
+     "Uli Byrne",
+     "Nico Holt"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 2.96,
+    "match_result:draw": 3.7,
+    "match_result:away": 2.43,
+    "total_goals:2.5:over": 2.03,
+    "total_goals:2.5:under": 1.7,
+    "btts:yes": 1.93,
+    "btts:no": 1.87,
+    "anytime_scorer:Hugo Ekwe": 2.99,
+    "anytime_scorer:Rory Carver": 2.71,
+    "anytime_scorer:Sami Orme": 3.52,
+    "anytime_scorer:Sami Rennick": 3.68,
+    "anytime_scorer:Owen Keane": 3.07,
+    "anytime_scorer:Hugo Byrne": 2.66
+   },
+   "suspended": []
+  },
+  "E24": {
+   "event_id": "E24",
+   "home": "Sallow Green",
+   "away": "Harrow Bay",
+   "kickoff": "2026-11-9T17:00",
+   "status": "scheduled",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Owen Nolan",
+     "Femi Pryce",
+     "Cian Rennick",
+     "Kofi Carver",
+     "Adam Quill",
+     "Eoin Pryce",
+     "Owen Ekwe",
+     "Nico Jarrow",
+     "Kofi Quill",
+     "Liam Ives",
+     "Jonah Orme"
+    ],
+    "away": [
+     "Pavel Rennick",
+     "Rory Ekwe",
+     "Ben Tobin",
+     "Gus Lowry",
+     "Vik Nolan",
+     "Wes Keane",
+     "Wes Holt",
+     "Pavel Nolan",
+     "Eoin Keane",
+     "Liam Garde",
+     "Sami Lowry"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Hugo Lowry",
+     "Hugo Abbot",
+     "Ivan Pryce"
+    ],
+    "away": [
+     "Adam Marsh",
+     "Pavel Holt",
+     "Adam Carver"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 1.94,
+    "match_result:draw": 3.7,
+    "match_result:away": 4.25,
+    "total_goals:2.5:over": 2.18,
+    "total_goals:2.5:under": 1.96,
+    "btts:yes": 1.9,
+    "btts:no": 1.98,
+    "anytime_scorer:Kofi Quill": 4.23,
+    "anytime_scorer:Liam Ives": 4.4,
+    "anytime_scorer:Jonah Orme": 3.83,
+    "anytime_scorer:Eoin Keane": 3.57,
+    "anytime_scorer:Liam Garde": 3.24,
+    "anytime_scorer:Sami Lowry": 3.23
+   },
+   "suspended": []
+  },
+  "E25": {
+   "event_id": "E25",
+   "home": "Yarrow Bridge",
+   "away": "Marrow Heath",
+   "kickoff": "2026-11-10T15:00",
+   "status": "scheduled",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Vik Pryce",
+     "Owen Doyle",
+     "Jonah Quill",
+     "Milo Jarrow",
+     "Theo Tobin",
+     "Ivan Tobin",
+     "Ben Fenwick",
+     "Milo Holt",
+     "Cian Orme",
+     "Liam Carver",
+     "Gus Carver"
+    ],
+    "away": [
+     "Jonah Fenwick",
+     "Uli Jarrow",
+     "Kofi Abbot",
+     "Ivan Jarrow",
+     "Gus Byrne",
+     "Owen Holt",
+     "Eoin Abbot",
+     "Gus Tobin",
+     "Liam Tobin",
+     "Rory Tobin",
+     "Dara Quill"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Uli Orme",
+     "Hugo Carver",
+     "Owen Byrne"
+    ],
+    "away": [
+     "Hugo Carver",
+     "Cian Orme",
+     "Femi Garde"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 2.38,
+    "match_result:draw": 3.7,
+    "match_result:away": 3.03,
+    "total_goals:2.5:over": 1.9,
+    "total_goals:2.5:under": 1.78,
+    "btts:yes": 1.99,
+    "btts:no": 1.98,
+    "anytime_scorer:Cian Orme": 2.63,
+    "anytime_scorer:Liam Carver": 3.66,
+    "anytime_scorer:Gus Carver": 2.61,
+    "anytime_scorer:Liam Tobin": 3.59,
+    "anytime_scorer:Rory Tobin": 3.53,
+    "anytime_scorer:Dara Quill": 4.39
+   },
+   "suspended": []
+  },
+  "E26": {
+   "event_id": "E26",
+   "home": "Elmbridge City",
+   "away": "Redwater",
+   "kickoff": "2026-11-10T17:00",
+   "status": "scheduled",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Nico Jarrow",
+     "Dara Abbot",
+     "Adam Byrne",
+     "Kofi Keane",
+     "Ivan Marsh",
+     "Ivan Ekwe",
+     "Nico Byrne",
+     "Wes Keane",
+     "Wes Orme",
+     "Hugo Carver",
+     "Wes Nolan"
+    ],
+    "away": [
+     "Nico Rennick",
+     "Jonah Pryce",
+     "Theo Doyle",
+     "Theo Pryce",
+     "Eoin Sorley",
+     "Eoin Garde",
+     "Owen Holt",
+     "Liam Garde",
+     "Nico Ekwe",
+     "Ben Nolan",
+     "Dara Orme"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Liam Byrne",
+     "Wes Sorley",
+     "Liam Rennick"
+    ],
+    "away": [
+     "Femi Quill",
+     "Gus Orme",
+     "Dara Keane"
+    ]
+   },
+   "current_odds": {
+    "match_result:home": 2.21,
+    "match_result:draw": 3.7,
+    "match_result:away": 3.37,
+    "total_goals:2.5:over": 1.74,
+    "total_goals:2.5:under": 1.78,
+    "btts:yes": 1.75,
+    "btts:no": 2.05,
+    "anytime_scorer:Wes Orme": 4.41,
+    "anytime_scorer:Hugo Carver": 3.66,
+    "anytime_scorer:Wes Nolan": 3.4,
+    "anytime_scorer:Nico Ekwe": 2.64,
+    "anytime_scorer:Ben Nolan": 3.42,
+    "anytime_scorer:Dara Orme": 4.45
+   },
+   "suspended": []
+  },
+  "E27": {
+   "event_id": "E27",
+   "home": "Willowmere",
+   "away": "Yarrow Bridge",
+   "kickoff": "2026-11-01T15:00",
+   "status": "postponed",
+   "abandoned_minute": null,
+   "knockout": false,
+   "qualified": null,
+   "goals": [],
+   "starters": {
+    "home": [
+     "Gus Abbot",
+     "Cian Byrne",
+     "Eoin Rennick",
+     "Kofi Pryce",
+     "Liam Byrne",
+     "Pavel Sorley",
+     "Eoin Fenwick",
+     "Ivan Fenwick",
+     "Pavel Marsh",
+     "Rory Abbot",
+     "Ivan Quill"
+    ],
+    "away": [
+     "Vik Pryce",
+     "Owen Doyle",
+     "Jonah Quill",
+     "Milo Jarrow",
+     "Theo Tobin",
+     "Ivan Tobin",
+     "Ben Fenwick",
+     "Milo Holt",
+     "Cian Orme",
+     "Liam Carver",
+     "Gus Carver"
+    ]
+   },
+   "substitutes": {
+    "home": [
+     "Owen Rennick",
+     "Uli Marsh",
+     "Ben Marsh"
+    ],
+    "away": [
+     "Uli Orme",
+     "Hugo Carver",
+     "Owen Byrne"
+    ]
+   },
+   "current_odds": {},
+   "suspended": []
+  }
+ },
+ "bets": [
+  {
+   "bet_id": "B5001",
+   "customer_id": "C1001",
+   "type": "single",
+   "stake": 100.0,
+   "odds": 2.14,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.14
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 214.0,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5002",
+   "customer_id": "C1002",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 3.17,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "match_result",
+     "pick": "away",
+     "odds": 3.17
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5003",
+   "customer_id": "C1003",
+   "type": "single",
+   "stake": 20.0,
+   "odds": 1.71,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 2.5,
+     "odds": 1.71
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 34.2,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5004",
+   "customer_id": "C1004",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 2.0,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 2.0
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 100.0,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5005",
+   "customer_id": "C1005",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 3.77,
+   "legs": [
+    {
+     "event_id": "E02",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 3.77
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 18.85,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5006",
+   "customer_id": "C1006",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 1.98,
+   "legs": [
+    {
+     "event_id": "E02",
+     "market": "btts",
+     "pick": "no",
+     "odds": 1.98
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 99.0,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5007",
+   "customer_id": "C1007",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 2.08,
+   "legs": [
+    {
+     "event_id": "E02",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 1.5,
+     "odds": 2.08
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5008",
+   "customer_id": "C1008",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 5.86,
+   "legs": [
+    {
+     "event_id": "E03",
+     "market": "first_scorer",
+     "pick": "Owen Quill",
+     "odds": 5.86
+    }
+   ],
+   "placed_at": "2026-10-04T09:00",
+   "status": "won",
+   "total_return": 293.0,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5009",
+   "customer_id": "C1009",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 3.83,
+   "legs": [
+    {
+     "event_id": "E03",
+     "market": "first_scorer",
+     "pick": "Theo Marsh",
+     "odds": 3.83
+    }
+   ],
+   "placed_at": "2026-10-04T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5010",
+   "customer_id": "C1010",
+   "type": "single",
+   "stake": 2.0,
+   "odds": 4.39,
+   "legs": [
+    {
+     "event_id": "E04",
+     "market": "anytime_scorer",
+     "pick": "Vik Nolan",
+     "odds": 4.39
+    }
+   ],
+   "placed_at": "2026-10-04T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5011",
+   "customer_id": "C1011",
+   "type": "single",
+   "stake": 25.0,
+   "odds": 3.03,
+   "legs": [
+    {
+     "event_id": "E04",
+     "market": "anytime_scorer",
+     "pick": "Dara Carver",
+     "odds": 3.03
+    }
+   ],
+   "placed_at": "2026-10-04T09:00",
+   "status": "won",
+   "total_return": 75.75,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5012",
+   "customer_id": "C1012",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 2.07,
+   "legs": [
+    {
+     "event_id": "E04",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 3.5,
+     "odds": 2.07
+    }
+   ],
+   "placed_at": "2026-10-04T09:00",
+   "status": "won",
+   "total_return": 10.35,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5013",
+   "customer_id": "C1013",
+   "type": "single",
+   "stake": 100.0,
+   "odds": 2.46,
+   "legs": [
+    {
+     "event_id": "E05",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.46
+    }
+   ],
+   "placed_at": "2026-10-07T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5014",
+   "customer_id": "C1014",
+   "type": "single",
+   "stake": 2.0,
+   "odds": 3.79,
+   "legs": [
+    {
+     "event_id": "E05",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 3.79
+    }
+   ],
+   "placed_at": "2026-10-07T09:00",
+   "status": "won",
+   "total_return": 7.58,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5015",
+   "customer_id": "C1015",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 1.62,
+   "legs": [
+    {
+     "event_id": "E05",
+     "market": "to_qualify",
+     "pick": "home",
+     "odds": 1.62
+    }
+   ],
+   "placed_at": "2026-10-07T09:00",
+   "status": "won",
+   "total_return": 8.1,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5016",
+   "customer_id": "C1016",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 3.55,
+   "legs": [
+    {
+     "event_id": "E06",
+     "market": "match_result",
+     "pick": "away",
+     "odds": 3.55
+    }
+   ],
+   "placed_at": "2026-10-07T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5017",
+   "customer_id": "C1017",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 1.85,
+   "legs": [
+    {
+     "event_id": "E06",
+     "market": "to_qualify",
+     "pick": "away",
+     "odds": 1.85
+    }
+   ],
+   "placed_at": "2026-10-07T09:00",
+   "status": "won",
+   "total_return": 9.25,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5018",
+   "customer_id": "C1018",
+   "type": "single",
+   "stake": 25.0,
+   "odds": 2.18,
+   "legs": [
+    {
+     "event_id": "E07",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 1.5,
+     "odds": 2.18
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "won",
+   "total_return": 54.5,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5019",
+   "customer_id": "C1019",
+   "type": "single",
+   "stake": 100.0,
+   "odds": 1.86,
+   "legs": [
+    {
+     "event_id": "E07",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.86
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "void",
+   "total_return": 100.0,
+   "leg_status": [
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5020",
+   "customer_id": "C1020",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 2.45,
+   "legs": [
+    {
+     "event_id": "E07",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.45
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "void",
+   "total_return": 5.0,
+   "leg_status": [
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5021",
+   "customer_id": "C1021",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 3.02,
+   "legs": [
+    {
+     "event_id": "E07",
+     "market": "anytime_scorer",
+     "pick": "Rory Tobin",
+     "odds": 3.02
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "won",
+   "total_return": 151.0,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5022",
+   "customer_id": "C1022",
+   "type": "single",
+   "stake": 2.0,
+   "odds": 3.06,
+   "legs": [
+    {
+     "event_id": "E08",
+     "market": "match_result",
+     "pick": "away",
+     "odds": 3.06
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "void",
+   "total_return": 2.0,
+   "leg_status": [
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5023",
+   "customer_id": "C1023",
+   "type": "single",
+   "stake": 10.0,
+   "odds": 2.18,
+   "legs": [
+    {
+     "event_id": "E09",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.18
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "void",
+   "total_return": 10.0,
+   "leg_status": [
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5024",
+   "customer_id": "C1024",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 1.85,
+   "legs": [
+    {
+     "event_id": "E09",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.85
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "void",
+   "total_return": 50.0,
+   "leg_status": [
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5025",
+   "customer_id": "C1025",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 3.66,
+   "legs": [
+    {
+     "event_id": "E10",
+     "market": "anytime_scorer",
+     "pick": "Ben Ekwe",
+     "odds": 3.66
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "void",
+   "total_return": 50.0,
+   "leg_status": [
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5026",
+   "customer_id": "C1026",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 3.61,
+   "legs": [
+    {
+     "event_id": "E10",
+     "market": "anytime_scorer",
+     "pick": "Cian Byrne",
+     "odds": 3.61
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "won",
+   "total_return": 180.5,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5027",
+   "customer_id": "C1027",
+   "type": "single",
+   "stake": 25.0,
+   "odds": 3.83,
+   "legs": [
+    {
+     "event_id": "E10",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 3.83
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "won",
+   "total_return": 95.75,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5028",
+   "customer_id": "C1028",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 2.34,
+   "legs": [
+    {
+     "event_id": "E11",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.34
+    }
+   ],
+   "placed_at": "2026-10-18T09:00",
+   "status": "won",
+   "total_return": 11.7,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5029",
+   "customer_id": "C1029",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 1.65,
+   "legs": [
+    {
+     "event_id": "E12",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.65
+    }
+   ],
+   "placed_at": "2026-10-18T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5030",
+   "customer_id": "C1030",
+   "type": "single",
+   "stake": 2.0,
+   "odds": 1.77,
+   "legs": [
+    {
+     "event_id": "E13",
+     "market": "total_goals",
+     "pick": "under",
+     "line": 2.5,
+     "odds": 1.77
+    }
+   ],
+   "placed_at": "2026-10-18T09:00",
+   "status": "won",
+   "total_return": 3.54,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5031",
+   "customer_id": "C1001",
+   "type": "single",
+   "stake": 10.0,
+   "odds": 3.27,
+   "legs": [
+    {
+     "event_id": "E14",
+     "market": "match_result",
+     "pick": "away",
+     "odds": 3.27
+    }
+   ],
+   "placed_at": "2026-10-19T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5032",
+   "customer_id": "C1002",
+   "type": "single",
+   "stake": 10.0,
+   "odds": 2.15,
+   "legs": [
+    {
+     "event_id": "E15",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 2.5,
+     "odds": 2.15
+    }
+   ],
+   "placed_at": "2026-10-19T09:00",
+   "status": "won",
+   "total_return": 21.5,
+   "leg_status": [
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5033",
+   "customer_id": "C1003",
+   "type": "single",
+   "stake": 10.0,
+   "odds": 3.13,
+   "legs": [
+    {
+     "event_id": "E16",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 3.13
+    }
+   ],
+   "placed_at": "2026-10-19T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5034",
+   "customer_id": "C1004",
+   "type": "accumulator",
+   "stake": 2.0,
+   "odds": 18.28,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.15
+    },
+    {
+     "event_id": "E09",
+     "market": "match_result",
+     "pick": "away",
+     "odds": 3.65
+    },
+    {
+     "event_id": "E02",
+     "market": "btts",
+     "pick": "no",
+     "odds": 2.33
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 10.02,
+   "leg_status": [
+    "won",
+    "void",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5035",
+   "customer_id": "C1005",
+   "type": "accumulator",
+   "stake": 5.0,
+   "odds": 6.77,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.37
+    },
+    {
+     "event_id": "E08",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.83
+    },
+    {
+     "event_id": "E05",
+     "market": "to_qualify",
+     "pick": "home",
+     "odds": 1.56
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 18.49,
+   "leg_status": [
+    "won",
+    "void",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5036",
+   "customer_id": "C1006",
+   "type": "accumulator",
+   "stake": 50.0,
+   "odds": 25.69,
+   "legs": [
+    {
+     "event_id": "E02",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 3.61
+    },
+    {
+     "event_id": "E10",
+     "market": "anytime_scorer",
+     "pick": "Ben Ekwe",
+     "odds": 2.99
+    },
+    {
+     "event_id": "E06",
+     "market": "to_qualify",
+     "pick": "away",
+     "odds": 2.38
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 429.59,
+   "leg_status": [
+    "won",
+    "void",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5037",
+   "customer_id": "C1007",
+   "type": "accumulator",
+   "stake": 25.0,
+   "odds": 4.06,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.99
+    },
+    {
+     "event_id": "E07",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.04
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 49.75,
+   "leg_status": [
+    "won",
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5038",
+   "customer_id": "C1008",
+   "type": "accumulator",
+   "stake": 50.0,
+   "odds": 6.14,
+   "legs": [
+    {
+     "event_id": "E04",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 3.5,
+     "odds": 2.26
+    },
+    {
+     "event_id": "E09",
+     "market": "btts",
+     "pick": "no",
+     "odds": 1.71
+    },
+    {
+     "event_id": "E03",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.59
+    }
+   ],
+   "placed_at": "2026-10-04T09:00",
+   "status": "won",
+   "total_return": 179.67,
+   "leg_status": [
+    "won",
+    "void",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5039",
+   "customer_id": "C1009",
+   "type": "accumulator",
+   "stake": 2.0,
+   "odds": 6.33,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "match_result",
+     "pick": "away",
+     "odds": 3.35
+    },
+    {
+     "event_id": "E02",
+     "market": "btts",
+     "pick": "no",
+     "odds": 1.89
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5040",
+   "customer_id": "C1010",
+   "type": "accumulator",
+   "stake": 5.0,
+   "odds": 5.37,
+   "legs": [
+    {
+     "event_id": "E05",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.14
+    },
+    {
+     "event_id": "E06",
+     "market": "to_qualify",
+     "pick": "away",
+     "odds": 2.51
+    }
+   ],
+   "placed_at": "2026-10-07T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "lost",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5041",
+   "customer_id": "C1011",
+   "type": "accumulator",
+   "stake": 25.0,
+   "odds": 6.44,
+   "legs": [
+    {
+     "event_id": "E09",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.23
+    },
+    {
+     "event_id": "E08",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 2.89
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "void",
+   "total_return": 25.0,
+   "leg_status": [
+    "void",
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5042",
+   "customer_id": "C1012",
+   "type": "accumulator",
+   "stake": 10.0,
+   "odds": 4.08,
+   "legs": [
+    {
+     "event_id": "E07",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 1.5,
+     "odds": 2.22
+    },
+    {
+     "event_id": "E01",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 2.5,
+     "odds": 1.84
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 40.85,
+   "leg_status": [
+    "won",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5043",
+   "customer_id": "C1013",
+   "type": "accumulator",
+   "stake": 100.0,
+   "odds": 7.87,
+   "legs": [
+    {
+     "event_id": "E11",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.26
+    },
+    {
+     "event_id": "E12",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 2.06
+    },
+    {
+     "event_id": "E13",
+     "market": "total_goals",
+     "pick": "under",
+     "line": 2.5,
+     "odds": 1.69
+    }
+   ],
+   "placed_at": "2026-10-18T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "won",
+    "lost",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5044",
+   "customer_id": "C1014",
+   "type": "bet_builder",
+   "stake": 50.0,
+   "odds": 8.72,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.07
+    },
+    {
+     "event_id": "E01",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.98
+    },
+    {
+     "event_id": "E01",
+     "market": "anytime_scorer",
+     "pick": "Kofi Carver",
+     "odds": 2.66
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 436.0,
+   "leg_status": [
+    "won",
+    "won",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5045",
+   "customer_id": "C1015",
+   "type": "bet_builder",
+   "stake": 100.0,
+   "odds": 19.52,
+   "legs": [
+    {
+     "event_id": "E10",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 3.95
+    },
+    {
+     "event_id": "E10",
+     "market": "anytime_scorer",
+     "pick": "Ben Ekwe",
+     "odds": 3.2
+    },
+    {
+     "event_id": "E10",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.93
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "won",
+   "total_return": 610.0,
+   "leg_status": [
+    "won",
+    "void",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5046",
+   "customer_id": "C1016",
+   "type": "bet_builder",
+   "stake": 50.0,
+   "odds": 5.85,
+   "legs": [
+    {
+     "event_id": "E10",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 2.5,
+     "odds": 1.67
+    },
+    {
+     "event_id": "E10",
+     "market": "anytime_scorer",
+     "pick": "Hugo Abbot",
+     "odds": 4.38
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "won",
+   "total_return": 67.0,
+   "leg_status": [
+    "won",
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5047",
+   "customer_id": "C1017",
+   "type": "bet_builder",
+   "stake": 10.0,
+   "odds": 5.49,
+   "legs": [
+    {
+     "event_id": "E04",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 3.5,
+     "odds": 2.1
+    },
+    {
+     "event_id": "E04",
+     "market": "anytime_scorer",
+     "pick": "Vik Nolan",
+     "odds": 3.27
+    }
+   ],
+   "placed_at": "2026-10-04T09:00",
+   "status": "lost",
+   "total_return": 0.0,
+   "leg_status": [
+    "won",
+    "lost"
+   ]
+  },
+  {
+   "bet_id": "B5048",
+   "customer_id": "C1018",
+   "type": "bet_builder",
+   "stake": 10.0,
+   "odds": 4.05,
+   "legs": [
+    {
+     "event_id": "E07",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 1.5,
+     "odds": 2.11
+    },
+    {
+     "event_id": "E07",
+     "market": "anytime_scorer",
+     "pick": "Dara Quill",
+     "odds": 2.4
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "won",
+   "total_return": 40.5,
+   "leg_status": [
+    "won",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5049",
+   "customer_id": "C1019",
+   "type": "bet_builder",
+   "stake": 25.0,
+   "odds": 3.56,
+   "legs": [
+    {
+     "event_id": "E07",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 1.9
+    },
+    {
+     "event_id": "E07",
+     "market": "btts",
+     "pick": "no",
+     "odds": 2.34
+    }
+   ],
+   "placed_at": "2026-10-11T09:00",
+   "status": "void",
+   "total_return": 25.0,
+   "leg_status": [
+    "void",
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5050",
+   "customer_id": "C1020",
+   "type": "bet_builder",
+   "stake": 50.0,
+   "odds": 2.75,
+   "legs": [
+    {
+     "event_id": "E09",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 1.81
+    },
+    {
+     "event_id": "E09",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.9
+    }
+   ],
+   "placed_at": "2026-10-12T09:00",
+   "status": "void",
+   "total_return": 50.0,
+   "leg_status": [
+    "void",
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5051",
+   "customer_id": "C1021",
+   "type": "bet_builder",
+   "stake": 50.0,
+   "odds": 5.81,
+   "legs": [
+    {
+     "event_id": "E02",
+     "market": "btts",
+     "pick": "no",
+     "odds": 1.98
+    },
+    {
+     "event_id": "E02",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 3.67
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 290.5,
+   "leg_status": [
+    "won",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5052",
+   "customer_id": "C1022",
+   "type": "accumulator",
+   "stake": 1000.0,
+   "odds": 180.0,
+   "legs": [
+    {
+     "event_id": "E01",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 6.0
+    },
+    {
+     "event_id": "E02",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 7.5
+    },
+    {
+     "event_id": "E05",
+     "market": "match_result",
+     "pick": "draw",
+     "odds": 4.0
+    }
+   ],
+   "placed_at": "2026-10-03T09:00",
+   "status": "won",
+   "total_return": 100000.0,
+   "leg_status": [
+    "won",
+    "won",
+    "won"
+   ]
+  },
+  {
+   "bet_id": "B5053",
+   "customer_id": "C1023",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 2.38,
+   "legs": [
+    {
+     "event_id": "E17",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.38
+    }
+   ],
+   "placed_at": "2026-11-06T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5054",
+   "customer_id": "C1024",
+   "type": "single",
+   "stake": 10.0,
+   "odds": 2.86,
+   "legs": [
+    {
+     "event_id": "E18",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.86
+    }
+   ],
+   "placed_at": "2026-11-06T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5055",
+   "customer_id": "C1025",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 1.87,
+   "legs": [
+    {
+     "event_id": "E19",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 1.87
+    }
+   ],
+   "placed_at": "2026-11-06T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5056",
+   "customer_id": "C1026",
+   "type": "single",
+   "stake": 10.0,
+   "odds": 3.32,
+   "legs": [
+    {
+     "event_id": "E20",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 3.32
+    }
+   ],
+   "placed_at": "2026-11-06T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5057",
+   "customer_id": "C1027",
+   "type": "single",
+   "stake": 50.0,
+   "odds": 1.63,
+   "legs": [
+    {
+     "event_id": "E21",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 1.63
+    }
+   ],
+   "placed_at": "2026-11-8TT09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5058",
+   "customer_id": "C1028",
+   "type": "single",
+   "stake": 10.0,
+   "odds": 2.62,
+   "legs": [
+    {
+     "event_id": "E22",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.62
+    }
+   ],
+   "placed_at": "2026-11-8TT09:00",
+   "cashed_out": {
+    "amount": 9.95,
+    "at": "2026-11-05T21:10"
+   },
+   "status": "cashed_out",
+   "total_return": 9.95,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5059",
+   "customer_id": "C1029",
+   "type": "single",
+   "stake": 25.0,
+   "odds": 2.4,
+   "legs": [
+    {
+     "event_id": "E23",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.4
+    }
+   ],
+   "placed_at": "2026-11-9TT09:00",
+   "cashed_out": {
+    "amount": 19.25,
+    "at": "2026-11-05T21:10"
+   },
+   "status": "cashed_out",
+   "total_return": 19.25,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5060",
+   "customer_id": "C1030",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 2.25,
+   "legs": [
+    {
+     "event_id": "E24",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.25
+    }
+   ],
+   "placed_at": "2026-11-9TT09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5061",
+   "customer_id": "C1001",
+   "type": "single",
+   "stake": 20.0,
+   "odds": 2.69,
+   "legs": [
+    {
+     "event_id": "E25",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.69
+    }
+   ],
+   "placed_at": "2026-11-10T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5062",
+   "customer_id": "C1002",
+   "type": "single",
+   "stake": 5.0,
+   "odds": 1.88,
+   "legs": [
+    {
+     "event_id": "E26",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 1.88
+    }
+   ],
+   "placed_at": "2026-11-10T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5063",
+   "customer_id": "C1003",
+   "type": "accumulator",
+   "stake": 20.0,
+   "odds": 14.94,
+   "legs": [
+    {
+     "event_id": "E21",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.34
+    },
+    {
+     "event_id": "E22",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.62
+    },
+    {
+     "event_id": "E27",
+     "market": "match_result",
+     "pick": "away",
+     "odds": 3.94
+    }
+   ],
+   "placed_at": "2026-11-01T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open",
+    "open",
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5064",
+   "customer_id": "C1004",
+   "type": "accumulator",
+   "stake": 25.0,
+   "odds": 3.62,
+   "legs": [
+    {
+     "event_id": "E23",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 2.5,
+     "odds": 1.74
+    },
+    {
+     "event_id": "E27",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 2.08
+    }
+   ],
+   "placed_at": "2026-11-01T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open",
+    "void"
+   ]
+  },
+  {
+   "bet_id": "B5065",
+   "customer_id": "C1005",
+   "type": "accumulator",
+   "stake": 10.0,
+   "odds": 3.51,
+   "legs": [
+    {
+     "event_id": "E24",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 1.81
+    },
+    {
+     "event_id": "E25",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 1.94
+    }
+   ],
+   "placed_at": "2026-11-10T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open",
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5066",
+   "customer_id": "C1006",
+   "type": "accumulator",
+   "stake": 5.0,
+   "odds": 4.35,
+   "legs": [
+    {
+     "event_id": "E17",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.85
+    },
+    {
+     "event_id": "E26",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.35
+    }
+   ],
+   "placed_at": "2026-11-06T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open",
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5067",
+   "customer_id": "C1007",
+   "type": "accumulator",
+   "stake": 10.0,
+   "odds": 3.78,
+   "legs": [
+    {
+     "event_id": "E19",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.02
+    },
+    {
+     "event_id": "E21",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.87
+    }
+   ],
+   "placed_at": "2026-11-06T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open",
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5068",
+   "customer_id": "C1008",
+   "type": "bet_builder",
+   "stake": 20.0,
+   "odds": 3.01,
+   "legs": [
+    {
+     "event_id": "E22",
+     "market": "match_result",
+     "pick": "home",
+     "odds": 2.4
+    },
+    {
+     "event_id": "E22",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 1.57
+    }
+   ],
+   "placed_at": "2026-11-8TT09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open",
+    "open"
+   ]
+  },
+  {
+   "bet_id": "B5069",
+   "customer_id": "C1009",
+   "type": "bet_builder",
+   "stake": 5.0,
+   "odds": 3.54,
+   "legs": [
+    {
+     "event_id": "E18",
+     "market": "total_goals",
+     "pick": "over",
+     "line": 2.5,
+     "odds": 2.11
+    },
+    {
+     "event_id": "E18",
+     "market": "btts",
+     "pick": "yes",
+     "odds": 2.1
+    }
+   ],
+   "placed_at": "2026-11-06T09:00",
+   "status": "open",
+   "total_return": null,
+   "leg_status": [
+    "open",
+    "open"
+   ]
+  }
+ ]
+}

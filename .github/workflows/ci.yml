@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements-dev.txt
+      - name: Lint
+        run: ruff check src scripts evals tests
+      - name: Regression tests (engine, tools, grader, agent loop; no API calls)
+        run: pytest -q
+      - name: Eval set is up to date with the ledger
+        run: |
+          python scripts/build_ledger.py
+          python evals/build_cases.py
+          git diff --exit-code data/ledger.json evals/cases.jsonl
+
+  docker:
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t support-agent .
